@@ -28,7 +28,8 @@
 * 7. [License](#License)
 * 8. [Contact](#Contact)
 * 9. [Changelog](#Changelog)
-	* 9.1. [v2.0.0](#v2.0.0)
+	* 9.1. [New version 1.0.0](#Newversion1.0.0)
+
 
 
 ##  2. <a name='AboutTheProject'></a>About The Project
@@ -165,6 +166,6 @@ Author Link: [https://github.com/IORoot](https://github.com/IORoot)
 
 ##  9. <a name='Changelog'></a>Changelog
 
-### New version 1.0.0
+###  9.1. <a name='Newversion1.0.0'></a>New version 1.0.0
 
 - Initial Build.
